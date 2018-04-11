@@ -1,0 +1,16 @@
+NAME: Jiahui Lu
+EMAIL: carsonluuu@gmail.com
+UID: 204945099
+
+The smoke-test I decide to include are following:
+- Check the correctness of copying its standard input to its standard output
+- Check the correctness of carrying out --input
+- Check the correctness of carrying out --output
+- Check the correctness of carrying out --input --output
+- Check the correctness of dealing with invalid arguments
+- Check the correctness of carrying out fault handling for --catch --segfault
+- Check the correctness of dealing with non-existing input
+- Check the correctness of dealing with unwritable output
+
+REFERENCES:
+The TA's code structure in Bu's TA Session
